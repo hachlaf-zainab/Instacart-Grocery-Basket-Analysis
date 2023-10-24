@@ -1,6 +1,7 @@
-# Python_Instacart_Project
-## Instacart Grocery Basket Analysis
-Instacart is an online grocery store that operates via app. My task is to suggest strategies for better customer segmentation in order for Instacart to target the right customer profiles with the appropriate products.
+# Instacart Grocery Basket Analysis
+Instacart is an online grocery store that operates via app. 
+
+**Objective** My task is to suggest strategies for better customer segmentation in order for Instacart to target the right customer profiles with the appropriate products.
 
 **Data** Several open-source data sets from [Instacart](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) that were provided by Career Foundry on
 - customers
